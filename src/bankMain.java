@@ -13,5 +13,7 @@ public class bankMain {
         t1.start();
         t2.start();
 
+        System.out.println("Testing");
+
     }
 }
